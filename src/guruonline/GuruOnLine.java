@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 //para passar sting para int é "Interger.parseInt(variavel);"
 
 /**
- * Rafael Alegrazzi klein
+ * @Rafael Alegrazzi klein
  */
 public class GuruOnLine {
 
